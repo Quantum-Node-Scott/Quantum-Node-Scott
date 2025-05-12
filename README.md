@@ -64,13 +64,3 @@
 <br />
 <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 
-<h3 align="left">📈 my github stats</h3>
-<br />
-
-<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dasom222g&show_icons=true&theme=gotham&locale=en" alt="dasom222g" /></p>
-
-<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dasom222g&theme=gotham" alt="dasom222g" /></p>
-
-<a href="https://linkedin.com/in/다솜-김-611008233" target="_blank">
-  <img align="left" alt="dasom's LinkedIN" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
-</a>
