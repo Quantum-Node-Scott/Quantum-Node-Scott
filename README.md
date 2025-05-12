@@ -3,14 +3,6 @@
 <h1 align="left">Hi 👋 This is Scott</h1>
 <h3 align="left">For a Great Dream</h3>
 
-- 👩‍💻 All of my projects are available at [https://charmed-summer-94a.notion.site/20ca1bad28ea4011b5a224feb859cfc5](https://charmed-summer-94a.notion.site/20ca1bad28ea4011b5a224feb859cfc5)
-
-- 💬 Ask me about **react, vue.js and solidity**
-
-- 📫 How to reach me **dasom228@gmail.com**
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dasom222g&label=Profile%20views&color=0e75b6&style=flat" alt="dasom222g" /> </p>
-
 <h3 align="left">Weapons</h3>
 <br />
 <p align="left">
